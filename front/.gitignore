@@ -1,0 +1,6 @@
+# dependencies
+node_modules
+data.json
+/build
+.env
+/public
